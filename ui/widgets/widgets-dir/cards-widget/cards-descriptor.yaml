@@ -1,0 +1,6 @@
+code: cards-section
+titles:
+  en: Sample Cards Section Template
+  it: Sample Cards Section Template
+group: free
+customUiPath: cards.ftl
